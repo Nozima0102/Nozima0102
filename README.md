@@ -32,12 +32,56 @@
 <a  href="https://www.youtube.com/@YauhenKavalchuk">
         webDeb
 </a>
+<br/>
 <a  href="https://www.youtube.com/@Fireship">
         FireShip
 </a>
+<br/>
 <a  href="https://www.youtube.com/@KevinPowell">
         KivinPowel
 </a>
+<br/>
 <a  href="https://www.youtube.com/@itproger">
         Itproger
 </a>
+
+
+<h1>
+        my skills
+</h1>
+
+<ul>
+<li>
+      html          
+</li>
+<li>
+      css          
+</li>
+<li>
+      javascript          
+</li>
+<li>
+      react          
+</li>
+<li>
+      next.js          
+</li>
+<li>
+      c#    
+</li>
+<li>
+      c++          
+</li>
+<li>
+      phyton          
+</li>
+<li>
+      ai          
+</li>
+<li>
+      aws          
+</li>
+
+
+        
+</ul>
