@@ -9,7 +9,7 @@
 </h1>
 
  <a href="https://web.telegram.org/k/">
-        Telegram <img src="https://static-00.iconduck.com/assets.00/telegram-icon-512x512-z8lb0qsx.png" alt="">
+        Telegram <img style="width:10" src="https://static-00.iconduck.com/assets.00/telegram-icon-512x512-z8lb0qsx.png" alt="">
 
     
 </a>
