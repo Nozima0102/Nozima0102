@@ -7,7 +7,7 @@
 <h1>
         My skills
 </h1>
-<hr>
+
  <a href="https://web.telegram.org/k/">
         Telegram
 </a>
