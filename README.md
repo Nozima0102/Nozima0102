@@ -9,12 +9,12 @@
    </h1>
    <hr>
    <ul>
-    <li>
-        <a style="width: 50;" href="https://web.telegram.org/k/">
+    <li  style="width: 50;>
+        <a" href="https://web.telegram.org/k/">
             <img src="https://banner2.cleanpng.com/20180629/rta/kisspng-telegram-logo-computer-icons-telegram-logo-5b36bbaa3df404.5025035915303136422538.jpg" alt="">
         </a>
     </li>
-    <li><a  style="width: 50"  href="https://ru.linkedin.com/">
+    <li  style="width: 50;><a  href="https://ru.linkedin.com/">
         <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" alt="">
     </a></li>
    </ul>
