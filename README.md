@@ -11,11 +11,10 @@
    <ul>
     <li>
         <a href="https://web.telegram.org/k/">
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F77246%2Ftelegram&psig=AOvVaw3Ui-lR88NJ-BkAirYyXh7s&ust=1720757209477000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjZgaiOnocDFQAAAAAdAAAAABAE" alt="">
+            <img src="https://banner2.cleanpng.com/20180629/rta/kisspng-telegram-logo-computer-icons-telegram-logo-5b36bbaa3df404.5025035915303136422538.jpg" alt="">
         </a>
     </li>
     <li><a href="https://ru.linkedin.com/">
-        <img src="https://cdn-icons-png.freepik.com/256/123/123718.png?semt=ais_hybrid" alt="">
+        <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" alt="">
     </a></li>
    </ul>
-
