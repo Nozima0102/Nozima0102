@@ -10,7 +10,7 @@
    <hr>
    <ul>
     <li  style="width: 50;>
-        <a" href="https://web.telegram.org/k/">
+        <a href="https://web.telegram.org/k/">
             <img src="https://banner2.cleanpng.com/20180629/rta/kisspng-telegram-logo-computer-icons-telegram-logo-5b36bbaa3df404.5025035915303136422538.jpg" alt="">
         </a>
     </li>
