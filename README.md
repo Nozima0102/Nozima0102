@@ -106,6 +106,10 @@
 </p>
 
 <p>
-        I am currently working on this project and gaining experience veva.uz 
+        I am currently working on this project and gaining experience <a href="https://veva.uz">veva</a>
 </p>
+<h3>
+        thank you for reviewing my resume)
+</h3>
+
 
