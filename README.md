@@ -35,3 +35,9 @@
 <a  href="https://www.youtube.com/@Fireship">
         FireShip
 </a>
+<a  href="https://www.youtube.com/@KevinPowell">
+        KivinPowel
+</a>
+<a  href="https://www.youtube.com/@itproger">
+        Itproger
+</a>
