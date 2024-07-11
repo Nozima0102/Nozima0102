@@ -102,5 +102,10 @@
         The purpose of creating these websites is to make Quran websites widely available in Uzbekistan
 </p>
 <p>
-        i used these websites html css javascript swagger and other libraries it gave me a lot of experience working with database in this project
+        i used these websites "html" "css" "javascript" "swagger" and other libraries it gave me a lot of experience working with database in this project 
 </p>
+
+<p>
+        I am currently working on this project and gaining experience veva.uz 
+</p>
+
