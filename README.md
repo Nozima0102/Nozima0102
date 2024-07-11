@@ -1,8 +1,6 @@
-Hello guys 👋
-
-<div align="center">
-
-I'm softwere engener
+ <h1 style="color: aliceblue;">
+        Hello guys 👋
+    </h1>
 
 
 
