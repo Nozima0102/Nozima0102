@@ -84,7 +84,7 @@
 </ul>
 
 <h1>
-        My projects
+        my projects
 </h1>
 <p>
         I honed these skills for 2 years at university and did 2 projects, 1 of which was copying the Quran to a website.
@@ -97,3 +97,10 @@
         <a href="http://mp3muslim.uz/">Muslim uz</a>
 </li>
 </ul>
+<img src="https://www.aihr.com/wp-content/uploads/Learning-development-jobs.jpg" alt="">
+<p>
+        The purpose of creating these websites is to make Quran websites widely available in Uzbekistan
+</p>
+<p>
+        i used these websites html css javascript swagger and other libraries it gave me a lot of experience working with database in this project
+</p>
