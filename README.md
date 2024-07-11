@@ -80,8 +80,20 @@
 </li>
 <li>
       aws          
+</li>   
+</ul>
+
+<h1>
+        My projects
+</h1>
+<p>
+        I honed these skills for 2 years at university and did 2 projects, 1 of which was copying the Quran to a website.
+</p>
+<ul>
+<li>
+        <a href="https://quran.uz/">Quran uz</a>
 </li>
-
-
-        
+<li>
+        <a href="http://mp3muslim.uz/">Muslim uz</a>
+</li>
 </ul>
